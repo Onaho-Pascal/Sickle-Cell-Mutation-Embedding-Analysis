@@ -10,7 +10,7 @@
 The **E6V (Glu→Val)** substitution in the *β-globin* chain (HBB gene) is the defining mutation of **Sickle Cell Disease (SCD)**.  
 It does **not** denature the β-globin structure but instead introduces a **hydrophobic patch** that promotes polymerization of hemoglobin molecules under low oxygen tension.
 
-This mini-project explores how **sequence embeddings** from Meta’s **ESM-2** protein language model capture the subtle but biologically significant local effects of the E6V mutation — without using full 3D folding models.
+This mini-project explores how **sequence embeddings** from Meta’s **ESM-2** protein language model capture the subtle but biologically significant local effects of the E6V mutation without using full 3D folding models.
 
 ---
 
